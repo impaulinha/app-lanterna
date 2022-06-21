@@ -27,6 +27,8 @@ Flashlight é um aplicativo de lanterna desenvolvido através do bootcamp **Deco
 
 > A lanterna pode ser ligada/desligada chacoalhando o celular ou através do botão disponível na tela.
 
+Você pode baixar o APK [aqui](https://drive.google.com/file/d/1kM2VWkFVwNrvumDHAP15nsf8HPfhRvJX/view?usp=sharing) ou através da release.
+
 ---
 
 ## 📸 Layout
